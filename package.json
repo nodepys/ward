@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.13",
+    "axios": "^1.6.8",
+    "cli-color": "^2.0.4",
+    "discord.js": "^14.14.1",
+    "mailparser": "^3.7.1",
+    "skyhelper-networth": "^1.18.7",
+    "smtp-server": "^3.13.4",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        "MTIzMzk5NjQwNTg1MzUxOTk3NQ.GRVYcZ"
+    ],
+    "key": "d433b289-6640-499f-acc8",
+    "domains": [
+        "ahuigweugzhue.ru"
+    ],
+    "owners": [
+        "1226737358439710841",
+        "1235562829235355771"
+    ],
+    "discordServer": "https://discord.gg/oldward",
+    "notifierWebhook": "https://discord.com/api/webhooks/1235242377363329025/s4x7b7LwCSc8-ppECH896iVGs9k0s2-nNQDOrlet",
+    "emailerToken": "MTIzNDAyMjg1NTk0ODExMTk0Mw.GZ7KxX.",
+    "guildid": "1233995270556225576",
+    "roleid": "1234110484433604660",
+    "footer": {
+        "text": "oldward",
+        "icon_url": "https://cdn.discordapp.com/avatars/1226737358439710841/a18ab5f6c2048c4b71c9e2a62ce291bc.webp?size=80"
+    }
+}
